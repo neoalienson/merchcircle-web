@@ -32,3 +32,5 @@ View it at the following URL: `//<hostname>:<port>/product/<product id>`
 
 # iOS App
 Only `with_app` branch has the iOS app sources.
+
+The reason to have `with_app` branch is for submission to hackathon. The app source is maintain at https://github.com/neoalienson/merchcircle-app
