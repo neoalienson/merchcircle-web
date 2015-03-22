@@ -30,3 +30,5 @@ HTTP POST to `//<hostname>:<port>/product`
 
 View it at the following URL: `//<hostname>:<port>/product/<product id>`
 
+# iOS App
+Only `with_app` branch has the iOS app sources.
