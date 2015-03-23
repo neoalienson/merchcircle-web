@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/neoalienson/merchcircle-web.svg)](https://travis-ci.org/neoalienson/merchcircle-web)
+
 #Instastore
 
 Sell your stuff quickly
