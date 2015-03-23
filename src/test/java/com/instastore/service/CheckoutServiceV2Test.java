@@ -33,6 +33,7 @@ public class CheckoutServiceV2Test {
 	private CheckoutServiceV2 checkoutService;
 	
 	@Test
+	@Ignore("rewrite to mock/stub is required")
 	public void testCheckout() {
 		CheckoutProduct product = new CheckoutProduct();
 		product.setDescription("Some good stuff");
