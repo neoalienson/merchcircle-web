@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/neoalienson/merchcircle-web.svg)](https://travis-ci.org/neoalienson/merchcircle-web)
+[![Circle CI](https://circleci.com/gh/neoalienson/merchcircle-web.svg?style=svg)](https://circleci.com/gh/neoalienson/merchcircle-web)
 
 #Instastore
 
