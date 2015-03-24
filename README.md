@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/neoalienson/merchcircle-web.svg)](https://travis-ci.org/neoalienson/merchcircle-web)
 [![Circle CI](https://circleci.com/gh/neoalienson/merchcircle-web.svg?style=svg)](https://circleci.com/gh/neoalienson/merchcircle-web)
+[ ![Codeship Status for neoalienson/merchcircle-web](https://codeship.com/projects/426b7660-b42d-0132-7f0b-7e0b9cbc7ee6/status?branch=master)](https://codeship.com/projects/70396)
 
 #Instastore
 
